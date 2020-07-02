@@ -1,0 +1,2 @@
+html-validate FILENAME.. ma wyświetlać listę błędów we wszystkich plikach .html.
+autoprefixer-cli -o main.prefixed.css main.css  ma czytać z pliku style.css i zapisywać wynik do pliku style.prefixed.css (możesz przetestować działanie Autoprefixera np. wpisując w pliku
